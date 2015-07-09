@@ -1,2 +1,14 @@
-# Exploring-Python-Libraries
-This repository contains IPython Notebooks of my escapades with various Python libraries.
+## Exploring-Python-Libraries
+-----------------------------
+
+My escapades with various Python libraries.
+
+
+####Python Libraries
+
+* scikit-learn
+
+
+####Python Projects
+
+
